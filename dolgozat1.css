@@ -1,0 +1,51 @@
+/*csslint order-alphabetical: false*/
+body{
+    background-color: #D6E3F2; 
+}
+
+.fo-menu {
+    height: 80px;
+    background-color: #212B5A;
+    width: 1000px;
+}
+
+.menupont {
+    background-color: #45698E;
+    color: floralwhite;
+    display: inline-block;
+    padding: 31px 47px 31px 47px;
+}
+
+.keret{
+   margin-top: 10px; 
+    background-color:#212B5A;
+    height: 400px;
+    width: 1000px;
+    text-align: center;
+}
+
+.alpont{
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    overflow: hidden;
+    text-align: center;
+    background-color: lightgreen;
+    margin: 75px 25px 75px 25px;
+    color: black;
+}
+
+.doboz{
+    background: #45698E;
+    height: 1000px;
+    text-align: left
+}
+
+.tartalom{
+    color: white;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+
+
