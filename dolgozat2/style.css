@@ -1,0 +1,79 @@
+/*csslint order-alphabetical: false*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px;
+    background-color: #488ccd;
+    
+    
+}
+
+
+
+
+
+.welcome{
+    color: white;
+    padding: 40px 0 40px 0;
+    font-weight: 200;
+    font-size: 30px;
+    
+    
+}
+
+
+.fo-menu {
+    width: 800px;
+    background-color: #284c80;
+  
+    
+    
+}
+
+    .menupont{
+    color: rgb(188,248,255)  ;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    line-height: 70px;
+    overflow: hidden;
+    height: 70px ;
+}
+.menupont:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
+
+.This{
+    font-size: 40px;
+    color: rgb(237,245,255);
+    margin-bottom: 5px;
+}
+
+.datum{
+    color: #284c80;
+    font-size: 14px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+.bevezeto{
+    width: 800px;
+    line-height: 1.7;
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.torzs{
+    width: 800px;
+    line-height: 1.7;
+    color: white;
+
+    
+    
+}
+
+    
